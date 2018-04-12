@@ -1,0 +1,6 @@
+classes= 1
+train  = /media/lwp/lwplw/lwptuthinkjoy/ship_detection/data/ship_detection_train.txt
+valid  = /media/lwp/lwplw/lwptuthinkjoy/ship_detection/data/ship_detection_val.txt
+names = /media/lwp/lwplw/lwptuthinkjoy/ship_detection/data/ship_detection.names
+backup = /media/lwp/lwplw/lwptuthinkjoy/ship_detection/backup/
+
